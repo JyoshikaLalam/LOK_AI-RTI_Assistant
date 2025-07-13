@@ -147,12 +147,6 @@ To preview the production build locally:
 npm run preview
 ```
 
-You can deploy the `dist/` folder using any static site hosting like:
-
-* [Vercel](https://vercel.com)
-* [Netlify](https://netlify.com)
-* [GitHub Pages](https://pages.github.com)
-
 ---
 
 ## 🚀 Future Roadmap
