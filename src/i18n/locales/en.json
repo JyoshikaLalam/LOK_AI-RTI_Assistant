@@ -1,0 +1,86 @@
+{
+  "app": {
+    "title": "LokAI - RTI Assistant",
+    "subtitle": "Your AI-powered companion for Right to Information"
+  },
+  "nav": {
+    "home": "Home",
+    "chat": "Ask RTI",
+    "info": "Learn RTI",
+    "tracker": "Track RTI"
+  },
+  "home": {
+    "hero": {
+      "title": "Empower Your Right to Information",
+      "subtitle": "Get instant help drafting RTI applications with AI assistance in your language",
+      "cta": "Start Your RTI Request"
+    },
+    "features": {
+      "ai": {
+        "title": "AI-Powered Drafting",
+        "description": "Convert your questions into properly formatted RTI applications"
+      },
+      "multilingual": {
+        "title": "Multiple Languages",
+        "description": "Available in Hindi, Telugu, and English with voice support"
+      },
+      "legal": {
+        "title": "Legal Compliance",
+        "description": "All applications follow RTI Act 2005 guidelines and formats"
+      },
+      "tracking": {
+        "title": "Response Tracking",
+        "description": "Track deadlines and get reminded about appeal timelines"
+      }
+    }
+  },
+  "chat": {
+    "title": "Draft Your RTI Application",
+    "placeholder": "Describe your information request or click the mic to speak...",
+    "micButton": "Click to speak",
+    "submitButton": "Generate RTI",
+    "limitWarning": "Daily limit: {{used}}/{{total}} RTI requests used",
+    "processing": "Processing your request...",
+    "misuse": {
+      "title": "Request Not Suitable for RTI",
+      "description": "Your request appears to be outside the scope of RTI Act. RTI is for seeking information, not for:",
+      "items": [
+        "Personal complaints or grievances",
+        "Vague or unclear requests",
+        "Information prohibited under Section 8",
+        "Requesting actions or decisions"
+      ],
+      "suggestion": "Please rephrase your request to seek specific information from a government department."
+    }
+  },
+  "info": {
+    "title": "RTI Knowledge Center",
+    "sections": {
+      "basics": "RTI Basics",
+      "whatToAsk": "What You Can Ask",
+      "process": "RTI Process",
+      "departments": "Government Departments",
+      "timeline": "Timelines & Appeals"
+    }
+  },
+  "tracker": {
+    "title": "Track Your RTI Applications",
+    "noApplications": "No RTI applications found",
+    "addManual": "Add Manual Entry",
+    "status": {
+      "pending": "Awaiting Response",
+      "replied": "Response Received",
+      "appeal": "Under Appeal",
+      "closed": "Closed"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try Again",
+    "close": "Close",
+    "download": "Download PDF",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
